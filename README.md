@@ -23,6 +23,7 @@
 <h4 align="center">https://github.com/RaquelWriter/React-googlemap-api</h4>
 <p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
 </p>
+<p align='center'>
 <img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/></a>
 </p>
 
@@ -30,6 +31,7 @@
 <h4 align="center">https://github.com/RaquelWriter/Javascript-Shopping-Cart</h4>
 <p align="center">Javascript demo for a Shopping Cart with promo codes.
 </p>
+<p align='center'>
 <img align="center" src="https://raquelventero.com/images/shoppingcart_anim.gif" alt="shopping-cart"/></a>
 </p>
 
@@ -37,13 +39,15 @@
 <h4 align="center">https://github.com/RaquelWriter/myreads</h4>
 <p align="center">Web app for searching, filtering and updating books in shelfs using REACT and WEBPACK.
 </p>
-<img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart" width='500px'/></a>
+<p align='center'>
+<img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart" width='300px'/></a>
 </p>
 
 <h3 align="center">Balcon de Córdoba hotel website</h3>
 <h4 align="center">https://www.balcondecordoba.com</h4>
 <p align="center">Wordpress website with connection with the reservation central.
 </p>
+<p align='center'>
 <img align="center" src="https://raquelventero.com/images/balcondecordoba_anim.gif" alt="shopping-cart"/></a>
 </p>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelwriter&show_icons=true&locale=en&layout=compact" alt="raquelwriter" /></p>
