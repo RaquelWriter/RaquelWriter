@@ -20,12 +20,11 @@
 </p>
 <hr>
 <h2 align="center">Projects:</h2>
-<div style="background-color: #c75462; color: #fff;">
+<div style="background-color: #c75462; color: #fff;">COSA</div>
 <h3 align="center">React app to show and filter directions in a Google Map</h3>
 <h4 align="center">https://github.com/RaquelWriter/React-googlemap-api</h4>
 <p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
 </p>
-</div>
 <p align='center'>
 <img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/></a>
 </p>
