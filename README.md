@@ -20,8 +20,7 @@
 </p>
 <hr>
 <h2 align="center">Projects:</h2>
-<div style="background-color: #c75462; color: #fff;">COSA</div>
-<h3 align="center">React app to show and filter directions in a Google Map</h3>
+<h3 align="center" style="background-color: #c75462;">React app to show and filter directions in a Google Map</h3>
 <h4 align="center">https://github.com/RaquelWriter/React-googlemap-api</h4>
 <p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
 </p>
@@ -37,6 +36,7 @@
 <img align="center" src="https://raquelventero.com/images/shoppingcart_anim.gif" alt="shopping-cart"/></a>
 </p>
 
+<hr>
 <h3 align="center">React responsive Personal Bookshelf</h3>
 <h4 align="center">https://github.com/RaquelWriter/myreads</h4>
 <p align="center">Web app for searching, filtering and updating books in shelfs using REACT and WEBPACK.
@@ -45,6 +45,7 @@
 <img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart" width='300px'/></a>
 </p>
 
+<hr>
 <h3 align="center">React Redux Poll</h3>
 <h4 align="center">https://github.com/RaquelWriter/Redux-poll</h4>
 <p align="center">React Redux Front End app to simulate an employees poll. Create, vote, ranking, login and logout of users, using the Redux store.
@@ -53,6 +54,7 @@
 <img align="center" src="https://raquelventero.com/images/Redux-Poll.gif" alt="shopping-cart"/></a>
 </p>
 
+<hr>
 <h3 align="center">Balcon de Córdoba hotel website</h3>
 <h4 align="center">https://www.balcondecordoba.com</h4>
 <p align="center">Wordpress website with connection with the reservation central.
