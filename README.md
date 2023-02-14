@@ -18,6 +18,7 @@
 <li>Some other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification.</li>
 </ul>
 </p>
+<hr>
 <h2 align="center">Projects in Github:</h2>
 <h3 align="center">React app to show and filter directions in a Google Map</h3>
 <h4 align="center">https://github.com/RaquelWriter/React-googlemap-api</h4>
@@ -26,7 +27,7 @@
 <p align='center'>
 <img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/></a>
 </p>
-
+<hr>
 <h3 align="center">Javascript FrontEnd Shopping Cart</h3>
 <h4 align="center">https://github.com/RaquelWriter/Javascript-Shopping-Cart</h4>
 <p align="center">Javascript demo for a Shopping Cart with promo codes.
