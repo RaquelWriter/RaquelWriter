@@ -22,7 +22,7 @@
 <p>Click to see the repo</p>
 <p align="center">
 
-<h2 align="center">[React app to show and filter directions in a Google Map](https://github.com/RaquelWriter/React-googlemap-api")</h2>
+<h2 align="center">[React app to show and filter directions in a Google Map](https://github.com/RaquelWriter/React-googlemap-api)</h2>
 <img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/></a>
 </p>
 <p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
