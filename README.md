@@ -48,7 +48,7 @@
 <p align="center">React Redux Front End app to simulate an employees poll. Create, vote, ranking, login and logout of users, using the Redux store.
 </p>
 <p align='center'>
-<img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart" width='300px'/></a>
+<img align="center" src="https://raquelventero.com/images/Redux-Poll.gif" alt="shopping-cart" width='300px'/></a>
 </p>
 
 <h3 align="center">Balcon de Córdoba hotel website</h3>
