@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, it's Raquel S. Ventero</h1>
 <h2 align="center">Not another React Front-End developer</h2>
-<h3 align="center">Programmer 💻, Musician 🎵, Startup Founder ⭐️, Writer 📖 and Critical Thinker 💡 out of the box 📦</h3>
+<h3 align="center">Programmer 💻, Techno Musician 🎵, Startup Founder ⭐️,<br>Writer 📖 and Critical Thinker 💡 out of the box 📦</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/raquelsanchezventero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquelsanchezventero" height="30" width="40" /></a>
