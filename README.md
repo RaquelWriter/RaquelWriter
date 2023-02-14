@@ -1,4 +1,4 @@
-[![MasterHead](https://raquelventero.com/fondo_linkedin.png)](https://raquelventero.com)
+[![MasterHead](https://raquelventero.com/images/fondo_linkedin.png)](https://raquelventero.com)
 
 <h1 align="center">Hi 👋, it's Raquel S. Ventero</h1>
 <h3 align="center">React Front-End developer</h3>
@@ -14,7 +14,15 @@
 
 <h3 align="center">About me:</h3>
 <p align="center"><ul><li>Passionate about technology and programming, I have been involved firsthand in the main technological changes in the last decades, helping grow successful technology startups of mobile apps, websites, and gamified education, as a Project Manager.</li>
-<li>Currently finishing the 'Senior FrontEnd Engineer' Udacity Nanodegree.</li>
-<li>Other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification.</li></ul>
+<li>About to accomplish the 'Senior FrontEnd Engineer' Udacity Nanodegree, working hard with React, React Native and Testing with Jest.</li>
+<li>Some other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification.</li>
+</ul>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelwriter&show_icons=true&locale=en&layout=compact" alt="raquelwriter" /></p>
+<h3 align="center">Projects in Github:</h3>
+<p align="center">
+<h2 align="center"> React app to show and filter directions in a Google Map</h2>
+<img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/>
+</p>
+<p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
+</p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelwriter&show_icons=true&locale=en&layout=compact" alt="raquelwriter" /></p>
