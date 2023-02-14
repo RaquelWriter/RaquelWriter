@@ -1,12 +1,11 @@
 [![MasterHead](https://raquelventero.com/images/fondo_linkedin.png)](https://raquelventero.com)
 
 <h1 align="center">Hi 👋, it's Raquel S. Ventero</h1>
-<h2 align="center">React Front-End developer</h2>
-
+<h2 align="center">Not another React Front-End developer</h2>
+<h3 align="center">Programmer 💻, Musician 🎵, Startup Founder ⭐️, Writer 📖 and Critical Thinker 💡 out of the box 📦</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/raquelsanchezventero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquelsanchezventero" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rsventero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rsventero" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -15,7 +14,7 @@
 <h2 align="center">About me:</h2>
 <p align="center"><ul><li>Passionate about technology and programming, I have been involved firsthand in the main technological changes in the last decades, helping grow successful technology startups of mobile apps, websites, and gamified education, as a Project Manager.</li>
 <li>About to accomplish the 'Senior FrontEnd Engineer' Udacity Nanodegree, working hard with React, React Native and Testing with Jest.</li>
-<li>Some other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification.</li>
+<li>Some other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification and more...</li>
 </ul>
 </p>
 <hr>
