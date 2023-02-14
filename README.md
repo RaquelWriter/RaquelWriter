@@ -19,9 +19,10 @@
 </ul>
 </p>
 <h3 align="center">Projects in Github:</h3>
+<p>Click to see the repo</p>
 <p align="center">
-<a href="https://github.com/RaquelWriter/React-googlemap-api">
-<h2 align="center">React app to show and filter directions in a Google Map</h2>
+
+<h2 align="center">[React app to show and filter directions in a Google Map](https://github.com/RaquelWriter/React-googlemap-api")</h2>
 <img align="center" src="https://raquelventero.com/images/googlemaps_anim.gif" alt="googlemaps"/></a>
 </p>
 <p align="center">Creating a Google Map using MAP API with REACT, WEBPACK, NODEJS, and SASS. Localized in english and german. Clickable custom markers with filtered data.
