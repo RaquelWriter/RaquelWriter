@@ -40,7 +40,7 @@
 <p align="center">Web app for searching, filtering and updating books in shelfs using REACT and WEBPACK.
 </p>
 <p align='center'>
-<img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart"/></a>
+<img align="center" src="https://raquelventero.com/images/MyReads.gif" alt="shopping-cart" width='300px'/></a>
 </p>
 
 <h3 align="center">React Redux Poll</h3>
