@@ -27,8 +27,8 @@
 <p align='center'>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_01.jpg" width='200px' alt="react-native-crm"/></a>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_02.jpg" width='200px' alt="react-native-crm"/></a>
-<img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_03.jpg" width='200px' alt="react-native-crm"/></a>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_04.jpg" width='200px' alt="react-native-crm"/></a>
+<img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_05.jpg" width='200px' alt="react-native-crm"/></a>
 </p>
 <hr>
 
