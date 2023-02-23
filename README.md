@@ -22,12 +22,12 @@
 
 <h3 align="center" style="background-color: #c75462;">React Native app - CRM</h3>
 <h4 align="center">https://github.com/RaquelWriter/React-Native-CRM</h4>
-<p align="center">Customers Relationship Manager front end in React Native with Redux toolkit, Redux-Saga and Async-storage libraries. Create/Edit customers. Filtered by regions. Includes push notification.
+<p align="center">Customers Relationship Manager front end in React Native with Redux toolkit, Redux-Saga, and Async-storage libraries. Create/Edit customers. Stack and Tab Navigation. Filtered by regions. Includes push notification at a desired time (hour:minutes)
 </p>
 <p align='center'>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_01.jpg" width='200px' alt="react-native-crm"/></a>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_02.jpg" width='200px' alt="react-native-crm"/></a>
-<img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_04.jpg" width='200px' alt="react-native-crm"/></a>
+<img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_03.jpg" width='200px' alt="react-native-crm"/></a>
 <img align="center" src="https://raquelventero.com/images/react-native-crm-sc/sc_04.jpg" width='200px' alt="react-native-crm"/></a>
 </p>
 <hr>
