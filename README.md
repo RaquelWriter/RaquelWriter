@@ -13,7 +13,7 @@
 
 <h2 align="center">About me:</h2>
 <p align="center"><ul><li>Passionate about technology and programming, I have been involved firsthand in the main technological changes in the last decades, helping grow successful technology startups of mobile apps, websites, and gamified education, as a Project Manager.</li>
-<li>About to accomplish the 'Senior FrontEnd Engineer' Udacity Nanodegree, working hard with React, React Native and Testing with Jest.</li>
+<li>I accomplished on February 2023, the 'Senior FrontEnd Engineer' Udacity Nanodegree, working hard with React, Redux Toolkit, Redux-Saga, React Native and Testing with Jest.</li>
 <li>Some other certifications: Master in VideoGame Development in C++ (Complutense University of Madrid), Javascript Brainnest Certification, HackerRank React Basic certification and more...</li>
 </ul>
 </p>
